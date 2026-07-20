@@ -95,28 +95,27 @@ The objective is to demonstrate how Python can be used for data cleaning, explor
 
 ## 📸 Project Screenshots
 
-### Sales Dashboard
+### 📈 Sales by Category
 
-(Add Screenshot Here)
-
----
-
-### Profit Analysis
-
-(Add Screenshot Here)
+![Sales by Category](images/sales_by_category.png)
 
 ---
 
-### Customer Analysis
+### 📉 Monthly Sales Trend
 
-(Add Screenshot Here)
+![Monthly Sales Trend](images/monthly_sales_trend.png)
 
 ---
 
-### Product Analysis
+### 📦 Top 10 Loss-Making Products
 
-(Add Screenshot Here)
+![Top 10 Loss-Making Products](images/top_10_loss_making_products.png)
 
+---
+
+### 📊 Discount vs Profit
+
+![Discount vs Profit](images/discount_vs_profit.png)
 ---
 
 ## 🚀 Skills Demonstrated
